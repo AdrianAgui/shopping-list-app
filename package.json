@@ -2,6 +2,11 @@
   "name": "shopping-list-app",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
+  "author": {
+    "name": "Adrián Aguirre",
+    "email": "adrian.agui9@gmail.com",
+    "url": "https://adrianagui.rocks/"
+  },
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
